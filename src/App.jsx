@@ -4,7 +4,7 @@ import Escocia from './assets/Components/Escocia.jsx'
 import GrandCanyon from './assets/Components/Grand_Canyon.jsx'
 import Muralhas_China from './assets/Components/Muralhas_China.jsx'
 import Aruba from './assets/Components/Aruba.jsx'
-import Katimandu from './assets/Components/Katimandu.jsx'
+import Katmandu from './assets/Components/Katmandu.jsx'
 import Home from './assets/Components/Home.jsx'
 import Footer from './assets/Components/Footer.jsx'
 function App() {
@@ -15,9 +15,9 @@ function App() {
       <Home/>
       <Escocia/>
       <GrandCanyon/>
+      <Katmandu/>
       <Muralhas_China/>
       <Aruba/>
-      <Katimandu/>
       <Footer/>
     </>
   )
